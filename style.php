@@ -20,6 +20,7 @@ body {
   font-family: 'Lato', sans-serif;
   margin: 0;
   padding: 0;
+  color: #8B008B;
 }
 
 h1 {
