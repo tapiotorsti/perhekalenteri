@@ -87,5 +87,5 @@ tr {
 
 .footer {
   text-align: right;
-  font-size: 70%;
+  font-size: 80%;
 }
